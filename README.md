@@ -56,7 +56,7 @@ Developed as part of our **Java OOP project**, it demonstrates real-world applic
 | Name                        | Role                              |
 |-----------------------------|-----------------------------------|
 | **Rizve**                   | 🖥️ Lead Developer                 |
-| **Ferdous Foysal Hridoy**   | 🎨 UI/UX Designer & Team Leader    |
+| **Md. Ferdous Foysal Hridoy**   | 🎨 UI/UX Designer & Team Leader    |
 | **Tanvir Shah**             | 📱 Android Developer              |
 | **Muhaiminur Rashid**       | 📱 Android Developer              |
 | **Sadia Akter**             | 🛡️ Software Quality Assurance (SQA)|
