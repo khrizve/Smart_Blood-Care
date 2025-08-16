@@ -55,7 +55,7 @@ Developed as part of our **Java OOP project**, it demonstrates real-world applic
 
 | Name                        | Role                              |
 |-----------------------------|-----------------------------------|
-| **Rizve**                   | 🖥️ Lead Developer                 |
+| **Kh Rizve Reza**                   | 🖥️ Lead Developer                 |
 | **Md. Ferdous Foysal Hridoy**   | 🎨 UI/UX Designer & Team Leader    |
 | **Tanvir Shah**             | 📱 Android Developer              |
 | **Muhaiminur Rashid**       | 📱 Android Developer              |
