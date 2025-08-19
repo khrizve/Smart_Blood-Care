@@ -66,7 +66,7 @@ Developed as part of our **Java OOP project**, it demonstrates real-world applic
 ## 📦 Installation  
 
 ```bash
-# Clone this repository
+# Clone this repository..
 git clone https://github.com/kh_rizve/smart-bloodcare.git
 
 # Open in Android Studio
