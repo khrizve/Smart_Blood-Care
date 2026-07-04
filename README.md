@@ -3,7 +3,7 @@
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)]()
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)]()
+<!-- [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)]() -->
 
 **Smart BloodCare** is a mobile application that connects **blood donors** with those in need, making blood donation **faster, easier, and smarter**.  
 Developed as part of our **Java OOP project**, it demonstrates real-world application of **Object-Oriented Programming** principles.
